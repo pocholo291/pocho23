@@ -1,7 +1,7 @@
 # pocho23
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hola soy desarrollador fulstack</h1>
+    <h1 align="center">Hola soy desarrollador fullstack</h1>
     <h3 align="center"> soy un desarrollador fullstack  que megusta lo que hago y me a pasiona las tecnologias dela informatica</h3>
 </div>
 - ?? Ask me about **PHP, Laravel, Python, Javascript,django,vuejs,mysql worpress**
