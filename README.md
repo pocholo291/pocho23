@@ -2,9 +2,9 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hola soy desarrollador fulsteck</h1>
-    <h3 align="center"> soy un desarrollador  fulsteck que megusta lo que hago y me a pasiona las tecnologias</h3>
+    <h3 align="center"> soy un desarrollador fullstack  que megusta lo que hago y me a pasiona las tecnologias dela informatica</h3>
 </div>
-- ?? Ask me about **PHP, Laravel, Python, Javascript**
+- ?? Ask me about **PHP, Laravel, Python, Javascript,django,vuejs,mysql worpress**
 
 <div align="left">
     <h3>?? Languages and Tools:</h3>
@@ -21,6 +21,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
 
